@@ -4,3 +4,16 @@ justify-content: space-between;
 margin-top: 20px;
 background-color: darkgoldenrod;
 }
+
+#my-article {
+    background-color: darkgray;
+    color: black;
+    
+    }
+    
+    .my-section{
+      background-color: chartreuse;
+      color: gray;
+    }
+    
+
