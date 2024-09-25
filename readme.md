@@ -17,3 +17,11 @@ HTML LINKS
 
 
 
+id and class are used to target elements for styles
+
+1. uniqueness 
+
+id : should be unique within a page. it is meant to target only one specific element.
+
+class : can be reused for multiple elements. 
+
