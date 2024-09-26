@@ -18,3 +18,18 @@ border: 2px solid darkblue;
     text-align: justify;
     text-decoration: underline overline;
 }
+
+
+div {
+    width: 200px;
+    height: 100px;
+padding: 50px;
+margin: 50px;
+    border: 1px solid black;
+}
+
+p{
+border: 1px solid salmon;
+
+
+}

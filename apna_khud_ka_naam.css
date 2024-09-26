@@ -1,9 +1,9 @@
-main {
+/* main {
 display: flex;
 justify-content: space-between;
 margin-top: 20px;
 background-color: darkgoldenrod;
-}
+} */
 
 #my-article {
     background-color: darkgray;
@@ -15,5 +15,7 @@ background-color: darkgoldenrod;
       background-color: chartreuse;
       color: gray;
     }
+    
+
     
 
