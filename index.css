@@ -36,7 +36,7 @@ justify-content: center;
     justify-content: space-between;
   }
 
-  article {
+  #anything {
     background-color: lightgoldenrodyellow;
     flex: 2;
     padding: 20px;
