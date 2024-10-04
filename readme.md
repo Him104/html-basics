@@ -25,3 +25,12 @@ id : should be unique within a page. it is meant to target only one specific ele
 
 class : can be reused for multiple elements. 
 
+Arrays : ordered collections of values.
+
+Each value in array has an index, starting from 0
+
+Arrays are used to store list of elements
+
+
+
+Objects : unordered collection of key-value pairs
